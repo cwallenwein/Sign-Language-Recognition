@@ -7,5 +7,4 @@ Big Steps:
 - Get Mediapipe Hands to work in Flutter
 
 Small Steps:
-- Check camera permissions
-- Get activity
+- Display Camera Output in the app
